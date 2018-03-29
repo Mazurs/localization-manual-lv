@@ -1,0 +1,2 @@
+# Glosārijs
+Šeit ir tematisks terminu apkopojums. Primārias terminu avots ir [LZA IT terminoloģijas apakškomisijas](http://termini.lza.lv/term.php) terminu datubāze. Jāpievērš uzmanība termina avotam. Vispiemērotākie ir no avota *LZA TK ITTEA protokoli*. Termini no *Microsoft Terminology* tiek izmantoi Microsoft produkots, kas mums nav saistotši, bet tie var būt *de-facto* standarti. Ja kāds termins trūkst, vai ir nepareizs, tos var apspriest terminoloģijas vēstkopā termini [at] lu [punkts] lv
