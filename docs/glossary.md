@@ -1,5 +1,5 @@
 # Glosārijs
-Šeit ir tematisks terminu apkopojums. Primārias terminu avots ir [LZA IT terminoloģijas apakškomisijas](http://termini.lza.lv/term.php) terminu datubāze. Jāpievērš uzmanība termina avotam. Vispiemērotākie ir no avota *LZA TK ITTEA protokoli*. Termini no *Microsoft Terminology* tiek izmantoi Microsoft produkots, kas mums nav saistotši, bet tie var būt *de-facto* standarti. Ja kāds termins trūkst, vai ir nepareizs, tos var apspriest terminoloģijas vēstkopā termini [at] lu [punkts] lv.
+Šeit ir tematisks terminu apkopojums. Primārias terminu avots ir [Latvijas Nacionālais terminoloģijas portāls](https://termini.gov.lv/). Vēlams sašaurināt meklēšanu uz *Informācijas un komunikāciju tehnoloģijas* nozari un pieturēties pie *LZA TK ITTEA protokoli* avota. Ja kāds termins trūkst, vai ir nepareizs, tos var apspriest terminoloģijas vēstkopā termini [at] lu [punkts] lv.
 
 Saīsinājumus parasti netulkojam. Piemēram, WiFi paliek Wifi vai arī *bezvadu tīkls*, bet ne BzTk vai kā tamlīdzīgi. Izņēmums ir gadījumi, ja latviešu valodā saīsinājums jau ir iegājies, kā arī, ja ir pieriekš izmantota pilnā forma (gadās ļoti reti).
 
